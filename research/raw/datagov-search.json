@@ -1,0 +1,134 @@
+[
+  {
+    "mcpServer": "datagov",
+    "mcpTool": "package_search",
+    "arguments": {
+      "q": "Meridian Hill Park",
+      "rows": 10
+    },
+    "accessed": "2026-09-29T00:50:19.293Z",
+    "isError": true,
+    "result": "Data.gov API error: Request failed with status code 404\nStatus: 404"
+  },
+  {
+    "mcpServer": "datagov",
+    "mcpTool": "package_search",
+    "arguments": {
+      "q": "Meridian Hill",
+      "rows": 10
+    },
+    "accessed": "2026-09-29T00:50:19.378Z",
+    "isError": true,
+    "result": "Data.gov API error: Request failed with status code 404\nStatus: 404"
+  },
+  {
+    "mcpServer": "datagov",
+    "mcpTool": "package_search",
+    "arguments": {
+      "q": "Malcolm X Park",
+      "rows": 10
+    },
+    "accessed": "2026-09-29T00:50:19.483Z",
+    "isError": true,
+    "result": "Data.gov API error: Request failed with status code 404\nStatus: 404"
+  },
+  {
+    "mcpServer": "datagov",
+    "mcpTool": "package_search",
+    "arguments": {
+      "q": "Rock Creek Park boundary",
+      "rows": 10
+    },
+    "accessed": "2026-09-29T00:50:19.581Z",
+    "isError": true,
+    "result": "Data.gov API error: Request failed with status code 404\nStatus: 404"
+  },
+  {
+    "mcpServer": "datagov",
+    "mcpTool": "package_search",
+    "arguments": {
+      "q": "National Register of Historic Places",
+      "rows": 10
+    },
+    "accessed": "2026-09-29T00:50:19.666Z",
+    "isError": true,
+    "result": "Data.gov API error: Request failed with status code 404\nStatus: 404"
+  },
+  {
+    "mcpServer": "datagov",
+    "mcpTool": "package_search",
+    "arguments": {
+      "q": "District of Columbia historic districts",
+      "rows": 10
+    },
+    "accessed": "2026-09-29T00:50:19.815Z",
+    "isError": true,
+    "result": "Data.gov API error: Request failed with status code 404\nStatus: 404"
+  },
+  {
+    "mcpServer": "datagov",
+    "mcpTool": "package_search",
+    "arguments": {
+      "q": "District of Columbia parks and recreation",
+      "rows": 10
+    },
+    "accessed": "2026-09-29T00:50:19.904Z",
+    "isError": true,
+    "result": "Data.gov API error: Request failed with status code 404\nStatus: 404"
+  },
+  {
+    "mcpServer": "datagov",
+    "mcpTool": "package_search",
+    "arguments": {
+      "q": "American Community Survey District of Columbia census tract",
+      "rows": 10
+    },
+    "accessed": "2026-09-29T00:50:20.083Z",
+    "isError": true,
+    "result": "Data.gov API error: Request failed with status code 404\nStatus: 404"
+  },
+  {
+    "mcpServer": "datagov",
+    "mcpTool": "package_search",
+    "arguments": {
+      "q": "NPS land resources division boundary",
+      "rows": 10
+    },
+    "accessed": "2026-09-29T00:50:20.168Z",
+    "isError": true,
+    "result": "Data.gov API error: Request failed with status code 404\nStatus: 404"
+  },
+  {
+    "mcpServer": "datagov",
+    "mcpTool": "package_search",
+    "arguments": {
+      "q": "DC neighborhood clusters",
+      "rows": 10
+    },
+    "accessed": "2026-09-29T00:50:20.343Z",
+    "isError": true,
+    "result": "Data.gov API error: Request failed with status code 404\nStatus: 404"
+  },
+  {
+    "mcpServer": "datagov",
+    "mcpTool": "package_search",
+    "arguments": {
+      "q": "Washington DC 1968 riots",
+      "rows": 10
+    },
+    "accessed": "2026-09-29T00:50:20.444Z",
+    "isError": true,
+    "result": "Data.gov API error: Request failed with status code 404\nStatus: 404"
+  },
+  {
+    "mcpServer": "datagov",
+    "mcpTool": "package_search",
+    "arguments": {
+      "q": "Columbia Heights Adams Morgan",
+      "rows": 10
+    },
+    "accessed": "2026-09-29T00:50:20.625Z",
+    "isError": true,
+    "result": "Data.gov API error: Request failed with status code 404\nStatus: 404"
+  }
+]

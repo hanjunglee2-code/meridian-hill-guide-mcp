@@ -1,0 +1,17 @@
+{
+  "name": "meridian-hill-guide-mcp",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Research field guide to Meridian Hill Park / Malcolm X Park, built from MCP-sourced and documented research.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "research:nps": "node research/mcp-client.mjs nationalparks --list",
+    "research:datagov": "node research/mcp-client.mjs datagov --list"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}

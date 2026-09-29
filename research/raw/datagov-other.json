@@ -1,0 +1,32 @@
+[
+  {
+    "mcpServer": "datagov",
+    "mcpTool": "group_list",
+    "arguments": {
+      "limit": 20
+    },
+    "accessed": "2026-09-29T00:51:04.922Z",
+    "isError": true,
+    "result": "Data.gov API error: Request failed with status code 404\nStatus: 404"
+  },
+  {
+    "mcpServer": "datagov",
+    "mcpTool": "tag_list",
+    "arguments": {
+      "query": "parks"
+    },
+    "accessed": "2026-09-29T00:51:05.012Z",
+    "isError": true,
+    "result": "Data.gov API error: Request failed with status code 404\nStatus: 404"
+  },
+  {
+    "mcpServer": "datagov",
+    "mcpTool": "package_show",
+    "arguments": {
+      "id": "national-register-of-historic-places"
+    },
+    "accessed": "2026-09-29T00:51:05.104Z",
+    "isError": true,
+    "result": "Data.gov API error: Request failed with status code 404\nStatus: 404"
+  }
+]
